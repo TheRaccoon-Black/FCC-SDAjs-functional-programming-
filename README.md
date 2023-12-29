@@ -21,7 +21,7 @@ Examine the code in the editor. It's using a method that has side effects in the
 
 Change Window.prototype.tabClose so that it removes the correct tab.
 
-#Use the map Method to Extract Data from an Array
+# Use the map Method to Extract Data from an Array
 So far we have learned to use pure functions to avoid side effects in a program. Also, we have seen the value in having a function only depend on its input arguments.
 
 This is only the beginning. As its name suggests, functional programming is centered around a theory of functions.
